@@ -24,4 +24,4 @@ Other libs and fraemworks: NestJs(Jwt auth, session), docker(dokcer-compose),Apo
     developing frontend projects with React-Redux.
 
 **Hexlet** 09.2021 - 02.2022\
-as part of the training, he developed 4 projects from console games to realtime chat, stack: React, Redux, MVC, Javascript, Socket.io , Bootstrap
+as part of the training, developed 4 projects from console games to real-time chat, stack: React, Redux, MVC, Javascript, Socket.I/O, Bootstrap
